@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1> CAT'S PURSUE </h1>
-<a href="Gato_entrando.html">
+<a href="file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/Atico.html">
 <img id= "i1"src="img/gato_sentado.jpg"  >
 </a>
 </body>
