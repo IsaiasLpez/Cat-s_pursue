@@ -19,7 +19,7 @@
 document.getElementById("salida").addEventListener("click", salvacion);
 
 function salvacion() {
-  window.location.href = "file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/sala_principal.html";
+  window.location.href = "sala_principal.html";
 }
 
 document.getElementById("miBoton").addEventListener("click", susto);
