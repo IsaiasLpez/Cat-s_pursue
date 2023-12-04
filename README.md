@@ -14,26 +14,26 @@
 <button id="volver" onclick="inicio()">volver a jugar</button>
           <script>
 
-          document.getElementById("volver").addEventListener("click", inicio);
+  document.getElementById("volver").addEventListener("click", inicio);
 
 
-          function inicio() {
+  function inicio() {
             window.location.href = "file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/Inicio.html";
           }
 
-          document.getElementById("prrr").addEventListener("click", feliz);
+  document.getElementById("prrr").addEventListener("click", feliz);
 
-          function feliz() {
+  function feliz() {
             var img = document.getElementById("prrr");
             img.style.display = "block";
           }
           var x = document.getElementById("ronroneo");
 
-          function feliz() {
+  function feliz() {
             x.play();
           }
 
-          </script>
+  </script>
 
 </body>
 </html>
