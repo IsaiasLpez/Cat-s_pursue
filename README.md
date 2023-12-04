@@ -18,7 +18,7 @@
 
 
   function inicio() {
-            window.location.href = "file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/Inicio.html";
+            window.location.href = "Inicio.html";
           }
 
   document.getElementById("prrr").addEventListener("click", feliz);
