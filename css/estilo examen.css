@@ -26,6 +26,19 @@
 
 }
 
+@keyframes intro3 {
+  from {
+    transform: translateX(600px);
+    opacity: 0%;
+
+  }
+  to {
+    transform: translateX(0px);
+    opacity: 100%;
+  }
+
+}
+
 
 #d1{
   float: left;
@@ -50,6 +63,17 @@
   animation-duration: 1.2s;
 }
 
+#d2a{
+  float: inherit;
+  display:grid;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  position: absolute;
+  animation-name: intro2;
+  animation-duration: 1.3s;
+}
+
 #d3{
   float: right;
   display:inline-block;
@@ -57,6 +81,16 @@
   height: 635px;
   margin-right: 2px;
   object-fit: cover;
+}
+
+#d5{
+  float: inherit;
+  display:grid;
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  position: absolute;
+  animation-duration: 1.3s;
 }
 
 
@@ -113,9 +147,86 @@
   left: 300;
 }
 
+#i6 {
+  display: block;
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  z-index: 1;
+    top: 80;
+  left: 60;
+}
+
+#i7 {
+  display: block;
+  background-size: cover;
+  margin-left: 180px;
+  margin-right: auto;
+  width: 1000px;
+  height: 624px;
+  position: absolute;
+  z-index: 0;
+    top: 80;
+  left: 60;
+}
+
+#i8 {
+  display: block;
+  background-size: cover;
+  margin-left: 180px;
+  margin-right: auto;
+  width: 60px;
+  height: 100px;
+  position: absolute;
+  z-index: 0;
+    top: 350px;
+  left: 180;
+}
+
+#i9 {
+  display: block;
+  background-size: cover;
+  margin-left: 10px;
+  margin-right: auto;
+  width: 1000px;
+  height: 667px;
+  position: absolute;
+  z-index: 0;
+    top: 90px;
+  left: 180;
+}
+
+.centro-de-texto {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cuadrado-invisible {
+  width: 100px; 
+  height: 500px; 
+  top: 80px;
+  left:1150px;
+  position: relative;
+  background-color: transparent;
+}
+
+.cuadrado-invisible1 {
+  width: 150px; 
+  height: 200px; 
+  top: -220px;
+  left:680px;
+  position: relative;
+  background-color: transparent;
+}
 
 body{
   size: 40%;
+  background: black;
 }
 
 h1 {
