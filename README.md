@@ -5,7 +5,7 @@
 <body id="b1">
 
 
-  <img id= "i8" src="img/sala de estar1.png">
+<img id= "i8" src="img/sala de estar1.png">
 
 
   <button id="puerta" onclick="mover()">a</button>
