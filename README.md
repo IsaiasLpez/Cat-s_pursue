@@ -1,11 +1,16 @@
 <html>
+
 <head>
 <link rel="stylesheet" href="css/estilo examen.css">
 </head>
-<body>
-<h1> CAT'S PURSUE </h1>
-<a href="file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/Gato_entrando.html">
-<img id= "i1"src="img/gato_sentado.png"  >
+
+<body id= "b1" >
+
+<img id= "i9" src="img/Pieza.png" >
+
+<a href="file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/Screamer3.html">
+<img id="i10" src= "img/Liston.png" >
 </a>
+
 </body>
 </html>
