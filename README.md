@@ -20,19 +20,19 @@
 
 
   function mover() {
-    window.location.href = "file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/pieza.html";
+    window.location.href = "pieza.html";
   }
 
 document.getElementById("otraPuerta").addEventListener("click", otroMover);
 
 function otroMover() {
-  window.location.href = "file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/Atico.html";
+  window.location.href = "Atico.html";
 }
 
 document.getElementById("puertaC").addEventListener("click", moverC);
 
 function moverC() {
-  window.location.href = "file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/sotano.html";
+  window.location.href = "sotano.html";
 }
 </script>
 
