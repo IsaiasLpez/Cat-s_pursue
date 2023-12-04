@@ -8,7 +8,7 @@
 
 <img id= "i9" src="img/Pieza.png" >
 
-<a href="file:///C:/Users/hp/OneDrive/Desktop/programacion%20creativa/html/Examen/Screamer3.html">
+<a href="Screamer3.html">
 <img id="i10" src= "img/Liston.png" >
 </a>
 
