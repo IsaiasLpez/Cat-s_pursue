@@ -5,7 +5,7 @@
 <body>
 <h1> CAT'S PURSUE </h1>
 <a href="Gato_entrando.html">
-<img id= "i1"src="img/gato_sentado.png"  >
+<img id= "i1"src="img/gato_sentado.jpg"  >
 </a>
 </body>
 </html>
